@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1739304542.41089 "/home/bpondal/Documents/Curriculum/benjamin-pondal-cv.tex" "benjamin-pondal-cv.pdf" "benjamin-pondal-cv" 1739304543.18078 0
-  "/home/bpondal/Documents/Curriculum/benjamin-pondal-cv.tex" 1739304542.11281 3829 cf4c661cca0ce3b19bb9edb6dbbb0895 ""
+["pdflatex"] 1773271697.48159 "/home/bpondal/Documents/Curriculum/benjamin-pondal-cv.tex" "benjamin-pondal-cv.pdf" "benjamin-pondal-cv" 1773271698.30031 0
+  "/home/bpondal/Documents/Curriculum/benjamin-pondal-cv.tex" 1773271697.17854 4371 75907ce5444179866a65e48f9a57e089 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm" 1136768653 1300 63a6111ee6274895728663cf4b4e7e81 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1136768653 1512 f21f83efb36853c0b70002322c1ab3ad ""
@@ -175,10 +175,10 @@
   "/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty" 1655066402 56148 51a9a8571c07b9921892ae11063ae853 ""
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1721433600 40900 887e0dc8cac988a9e9c574af364cf837 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1736351537.54192 4547210 0b4d8bce3d83ee4f50b88a57a6a0d7ef ""
-  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1736351268 7753247 a314faf30e02044e4080e261039ba9a9 ""
-  "benjamin-pondal-cv.aux" 1739304543.09082 1400 a8a22dd4dfdf1ddcf1dd80f310519354 "pdflatex"
-  "benjamin-pondal-cv.out" 1739304543.09282 643 1cc82148a5c960b862f975089a12abfc "pdflatex"
-  "benjamin-pondal-cv.tex" 1739304542.11281 3829 cf4c661cca0ce3b19bb9edb6dbbb0895 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1748952705 7753933 9d64f9dfe9c885cf61557ba1f0b60442 ""
+  "benjamin-pondal-cv.aux" 1773271698.19156 1400 9c3b55c75da2a5da44a8c94292a7546f "pdflatex"
+  "benjamin-pondal-cv.out" 1773271698.19256 643 1cc82148a5c960b862f975089a12abfc "pdflatex"
+  "benjamin-pondal-cv.tex" 1773271697.17854 4371 75907ce5444179866a65e48f9a57e089 ""
   (generated)
   "benjamin-pondal-cv.aux"
   "benjamin-pondal-cv.log"
